@@ -1,0 +1,10 @@
+/* for button hover */
+.buttons button:hover{
+    background-color: black;
+    color: white;
+}
+/* for horizontal line style */
+#hr-style{
+    width:100%;
+    color:rgb(10, 10, 10);
+}
